@@ -1,3 +1,8 @@
+you can find the dashboard in tableau public server using the link 
+https://public.tableau.com/app/profile/sahshank.solanki/viz/FDIcasestudy_16468444382250/Dashboard2
+
+
+
 1. Import Data
 2. Unpivoting data from converting wide format to long format
 3. Cleaning Labels
